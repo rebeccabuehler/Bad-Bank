@@ -1,7 +1,7 @@
-function AllData() {
+function Balance() {
     return(
         <h1>
-            AllData
+            Balance
         </h1>
     );
 }

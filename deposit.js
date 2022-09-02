@@ -1,7 +1,7 @@
-function AllData() {
+function Deposit() {
     return(
         <h1>
-            AllData
+            Deposit
         </h1>
     );
 }

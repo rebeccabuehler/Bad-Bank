@@ -9,12 +9,12 @@ function Navbar() {
         </li>
         <li className="nav-item">
           <a className="nav-link" href="#/CreateAccount/">
-            Create Account
+            CreateAccount
           </a>
         </li>
         <li className="nav-item">
           <a className="nav-link" href="#/login/">
-            Log In
+            Login
           </a>
         </li>
         <li className="nav-item">

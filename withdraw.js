@@ -1,7 +1,7 @@
-function AllData() {
+function Withdraw() {
     return(
         <h1>
-            AllData
+            Withdraw
         </h1>
     );
 }

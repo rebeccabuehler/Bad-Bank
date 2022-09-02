@@ -1,7 +1,7 @@
-function AllData() {
+function Login() {
     return(
         <h1>
-            AllData
+            Login
         </h1>
     );
 }
