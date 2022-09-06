@@ -1,7 +1,9 @@
 function Home() {
+    const ctx = React.useContext(UserContext);
     return(
         <h1>
-            Home
+            Home <br/>
+            {JSON.stringify(ctx)}
         </h1>
     );
 }

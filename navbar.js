@@ -4,7 +4,7 @@ function Navbar() {
       <ul className="nav">
         <li className="nav-item">
           <a className="nav-link active" aria-current="page" href="#">
-            Bad Bank
+            Home
           </a>
         </li>
         <li className="nav-item">
