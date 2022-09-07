@@ -23,11 +23,4 @@ function Card(props) {
 }
 
 
-// <div className="card">
-// <div className="card-header">
-// featured </div>
-// <div className="card-body">
-// <h5 className="card-title"> Special Title Treatment</h5>
-// <p className="card-title"> With supporting text below as a natural lead into additional content.</p>
-// </div>
-// </div>
+//add a context for <BankForm> to make a cleaner approach for all the forms for createaccount, login, balance, deposit, withdraw
