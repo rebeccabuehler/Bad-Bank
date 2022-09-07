@@ -4,7 +4,6 @@ function CreateAccount() {
   const [name, setName] = React.useState("");
   const [email, setEmail] = React.useState("");
   const [password, setPassword] = React.useState("");
-  const [link, setLink] = React.useState('');
   const ctx = React.useContext(UserContext);
 
   function validate(field, label) {
@@ -30,10 +29,6 @@ function CreateAccount() {
         setEmail('');
         setPassword('');
         setShow(true);
-    }
-
-    function foo() {
-        setLink('/#/login/');
     }
 
   return (
