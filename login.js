@@ -57,7 +57,7 @@ function Login() {
                 ) : ( 
                     <>
                     <h5>Success</h5>
-                    <h1>{JSON.stringify(ctx.users[1])}</h1>
+                    <h1>{JSON.stringify(ctx.users)}</h1>
                     </>
                 )}
         />
